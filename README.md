@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/AmrutaSakharkar">**Github**</a>
 
-- 🤔 Ask me about **Python, C++, Cloud Computing.**
+- 🤔 Ask me about **Python, Nodejs , AWS, React .**
 
 - 📫 Reach out to me at **ambusakharkar16@gmail.com**
 
