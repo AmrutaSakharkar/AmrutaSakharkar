@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amruta Sakharkar.</h1>
-<h3 align="center">Passionate Python Developer</h3>
+<h3 align="center">Passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
